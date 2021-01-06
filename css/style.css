@@ -33,6 +33,10 @@ body {
   color: var(--accent-color);
 }
 
+.logo-studio {
+  color: var(--text-white-color);
+}
+
 /* site nav */
 .site-nav .link,
 .contacts .link {
@@ -63,6 +67,7 @@ body {
 }
 
 .footer .contacts .link {
+  font-weight: 400;
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
